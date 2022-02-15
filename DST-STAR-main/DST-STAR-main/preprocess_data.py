@@ -5,7 +5,7 @@ import re
 from utils.fix_label import fix_general_label_error
 
 
-data_dir = "data/mwz2.1"
+data_dir = "data/mwz2.4"
 
 data_files = ["train_dials.json", "dev_dials.json", "test_dials.json"]
 
